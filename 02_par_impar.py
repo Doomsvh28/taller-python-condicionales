@@ -8,3 +8,5 @@ if edad >= 18:
     print("Eres mayor de edad")
 else: 
     print("Eres menor de edad")
+
+Implemento ejercicio 2: par/impar y mayoría de edad
